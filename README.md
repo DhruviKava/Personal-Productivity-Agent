@@ -162,6 +162,13 @@ Provides:
 
 ---
 
+<img width="1277" height="612" alt="Main Screen" src="https://github.com/user-attachments/assets/7a2d59c9-94e5-40ff-b9a7-d676fa7fdad9" />
+
+<img width="1100" height="2012" alt="FullScreenSchedule" src="https://github.com/user-attachments/assets/fffd98e1-3f5a-48b2-94b7-81a2b6973bd7" />
+
+<img width="1320" height="632" alt="ReminderReflect" src="https://github.com/user-attachments/assets/9b2006c7-21e9-4793-b463-5792510435aa" />
+
+
 # 5. Running the Project
 
 Install dependencies:
