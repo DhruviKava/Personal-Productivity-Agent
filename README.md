@@ -3,6 +3,13 @@
 
 This project implements a multi‑agent productivity system designed to collect tasks, prioritize them, generate a daily schedule, produce reminders, and evaluate the output. The system is built using Python, a modular agent architecture, and a custom Gradio interface.
 
+
+# Course & Submission
+
+Course: 5-Day AI Agents Intensive Course with Google
+Capstone Writeup:
+https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/personal-productivity-agent
+
 ---
 
 # 1. Architecture Overview
